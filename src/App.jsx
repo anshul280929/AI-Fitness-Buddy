@@ -23,7 +23,7 @@ function App() {
                     AI Fitness Buddy 🧘‍♀️
                 </h1>
                 <p style={{ fontSize: '1.2rem', color: '#666' }}>
-                    Your personal AI trainer & nutritionist! Created with ❤️ by You & FullstackBhabhi details
+                    Your personal AI trainer & nutritionist! Created with ❤️ by Anshul details
                 </p>
             </header>
 
