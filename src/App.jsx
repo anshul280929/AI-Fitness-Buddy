@@ -23,7 +23,7 @@ function App() {
                     AI Fitness Buddy 🧘‍♀️
                 </h1>
                 <p style={{ fontSize: '1.2rem', color: '#666' }}>
-                    Your personal AI trainer & nutritionist! Created with ❤️ by Anshul details
+                    Your personal AI trainer & nutritionist! Created with ❤️ by Anshul
                 </p>
             </header>
 
@@ -113,7 +113,7 @@ function App() {
 
             <footer style={{ marginTop: '4rem', padding: '2rem', borderTop: '1px solid rgba(0,0,0,0.05)' }}>
                 <p style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '0.5rem', color: '#888' }}>
-                    Made with <Heart size={16} fill="var(--primary)" color="var(--primary)" /> by FullstackBhabhi's Student
+                    Made with <Heart size={16} fill="var(--primary)" color="var(--primary)" /> by Anshul
                 </p>
             </footer>
         </div>
